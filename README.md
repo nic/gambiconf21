@@ -40,9 +40,9 @@ sudo systemctl enable influxdb.service
 sudo systemctl start influxdb.service
 ```
 
-
-influx
 ```
+influx
+
 create database gambiconf
 use gambiconf
 
