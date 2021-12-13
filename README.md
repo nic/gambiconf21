@@ -1,5 +1,9 @@
 # GambiConf21
 
+Vídeo da Talk exibida no evento:
+[![Estação metereológica usando somente JS no código](https://img.youtube.com/vi/dJqX4vueD5c/0.jpg)](https://www.youtube.com/watch?v=dJqX4vueD5c)
+
+
 ## Mosquitto
 
 ```
