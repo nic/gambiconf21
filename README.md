@@ -82,7 +82,7 @@ http://192.168.0.2:1880
 
 ## Espruino Code
 
-```
+```javascript
 // Config values
 const wifiSSID = "GambiConf";
 const wifiPWD = "gambiconf";
